@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const defaultMarkdown = `
   # Heading 1
   ## Heading 2
-  [Link](https://www.google.com)
+  [Link](https://chaicode.com/)
   \`inline code\`
   \`\`\`
   // Code block
