@@ -1,5 +1,5 @@
 # Markdown-previewer
-Welcome to Markdown Previewer, a simple yet powerful Markdown Previewer. This application displays a text area and show real time preview The app is built using HTML, CSS, and JavaScript and cds.
+Welcome to Markdown Previewer, a simple yet powerful Markdown Previewer. This application displays a text area and shows a real-time preview. The app is built using HTML, CSS, JavaScript, and cds.
 
 ## 🚀 Features
 - 📖 User can type any mark in textarea and show the real time preview of render html
@@ -12,9 +12,9 @@ Welcome to Markdown Previewer, a simple yet powerful Markdown Previewer. This ap
 
 
 ## 🛠️ How to Use
-- Clone or Download the repository.
+- Clone or download the repository.
 
-- Open the project in your preferred IDE.
+- Open the project using your preferred IDE.
 
 - The app contains:
 
